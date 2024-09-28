@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 import java.lang.Math;
-
+//2.2.5
 public class bai5{
     public static void main(String[] args){
         String num1, num2;
